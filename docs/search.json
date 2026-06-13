@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on Machine Learning and Statistical Learning applied to biomedical, health-related and social-science data. I am interested in developing and applying statistical models, machine learning algorithms and data mining methods from both methodological and applied perspectives."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research interests",
+    "text": "Research interests\n\nNon-parametric and ensemble models\nA central part of my research concerns non-parametric and ensemble learning methods, with particular attention to robust modelling strategies for complex data structures.\n\n\nSurvival analysis\nI work on statistical and machine learning models for censored data, including ensemble approaches for survival outcomes and biomedical applications.\n\n\nClustering and Bayesian approaches\nMy research includes clustering methods, Bayesian ensemble approaches, robust similarity measures and methods for high-dimensional and complex data.\n\n\nBiomedical and neuroimaging applications\nI collaborate on projects involving neurosciences, neuroimaging, radiomics, neurological diseases and biomedical data analysis.\n\n\nSocial-science and health data\nI also apply statistical and computational methods to social-science data, including education, socio-economic topics, health data and questionnaire-based research."
+  },
+  {
+    "objectID": "research.html#keywords",
+    "href": "research.html#keywords",
+    "title": "Research",
+    "section": "Keywords",
+    "text": "Keywords\nMachine learning · Statistical learning · Survival analysis · Ensemble models · Clustering · Bayesian methods · Biomedical statistics · Neuroimaging · Health data · Social-science data"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Assistant Professor in Statistics\nDepartment of Political and Social Sciences\nUniversity of Pavia\nI am a statistician working on machine learning and statistical learning methods for biomedical, health-related and social-science data. My research combines methodological development and applied data science, with interests in non-parametric and ensemble models, survival analysis, clustering, neuroimaging and statistical models for social sciences.\n\nPublications Research Download CV\n\n\nGoogle Scholar · ORCID · GitHub · LinkedIn"
+  },
+  {
+    "objectID": "index.html#research-at-a-glance",
+    "href": "index.html#research-at-a-glance",
+    "title": "Home",
+    "section": "Research at a glance",
+    "text": "Research at a glance\n\n\nStatistical Learning\nDevelopment and application of statistical learning methods, with attention to interpretability, robustness and real-world data constraints.\n\n\nBiomedical Data Science\nMachine learning and data mining for biomedical data, neuroimaging, neurosciences and health-related applications.\n\n\nSocial and Health Data\nStatistical and computational models for social sciences, education, socio-economic topics and health data."
+  },
+  {
+    "objectID": "index.html#current-courses",
+    "href": "index.html#current-courses",
+    "title": "Home",
+    "section": "Current courses",
+    "text": "Current courses\n\nData Driven Approach for Social Sciences\nMethodological and Computational Approaches in Data Science"
+  },
+  {
+    "objectID": "courses/data-driven-social-sciences.html",
+    "href": "courses/data-driven-social-sciences.html",
+    "title": "Data Driven Approach for Social Sciences",
+    "section": "",
+    "text": "Course: Data Driven Approach for Social Sciences\nDegree programme: Social Sciences for Global Challenges\nDepartment: Department of Political and Social Sciences, University of Pavia\nHours: 40\nPeriod: October-December"
+  },
+  {
+    "objectID": "courses/data-driven-social-sciences.html#course-information",
+    "href": "courses/data-driven-social-sciences.html#course-information",
+    "title": "Data Driven Approach for Social Sciences",
+    "section": "",
+    "text": "Course: Data Driven Approach for Social Sciences\nDegree programme: Social Sciences for Global Challenges\nDepartment: Department of Political and Social Sciences, University of Pavia\nHours: 40\nPeriod: October-December"
+  },
+  {
+    "objectID": "courses/data-driven-social-sciences.html#course-overview",
+    "href": "courses/data-driven-social-sciences.html#course-overview",
+    "title": "Data Driven Approach for Social Sciences",
+    "section": "Course overview",
+    "text": "Course overview\nThis course introduces students to data-driven approaches for the analysis of social-science problems. It focuses on statistical reasoning, data analysis and computational tools for studying social, economic and institutional phenomena.\nThe course is designed to help students move from substantive research questions to empirical analysis, with attention to data preparation, exploratory analysis, model interpretation and reproducible workflows."
+  },
+  {
+    "objectID": "courses/data-driven-social-sciences.html#main-topics",
+    "href": "courses/data-driven-social-sciences.html#main-topics",
+    "title": "Data Driven Approach for Social Sciences",
+    "section": "Main topics",
+    "text": "Main topics\n\nData-driven reasoning in the social sciences\nData sources, data quality and preprocessing\nExploratory data analysis\nStatistical models for social-science data\nInterpretation and communication of empirical results\nReproducible workflows for data analysis"
+  },
+  {
+    "objectID": "courses/data-driven-social-sciences.html#course-materials",
+    "href": "courses/data-driven-social-sciences.html#course-materials",
+    "title": "Data Driven Approach for Social Sciences",
+    "section": "Course materials",
+    "text": "Course materials\nCourse materials will be made available during the semester."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Assistant Professor in Statistics\nDepartment of Political and Social Sciences\nUniversity of Pavia\nEmail: elena.ballante@unipv.it"
+  },
+  {
+    "objectID": "contact.html#elena-ballante",
+    "href": "contact.html#elena-ballante",
+    "title": "Contact",
+    "section": "",
+    "text": "Assistant Professor in Statistics\nDepartment of Political and Social Sciences\nUniversity of Pavia\nEmail: elena.ballante@unipv.it"
+  },
+  {
+    "objectID": "contact.html#profiles",
+    "href": "contact.html#profiles",
+    "title": "Contact",
+    "section": "Profiles",
+    "text": "Profiles\n\nGoogle Scholar\nORCID\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "courses/methodological-computational-data-science.html",
+    "href": "courses/methodological-computational-data-science.html",
+    "title": "Methodological and Computational Approaches in Data Science",
+    "section": "",
+    "text": "Course: Methodological and Computational Approaches in Data Science\nDegree programme: SERI - Economic Development and International Relations\nDepartment: Department of Political and Social Sciences, University of Pavia\nHours: 20\nPeriod: March-May"
+  },
+  {
+    "objectID": "courses/methodological-computational-data-science.html#course-information",
+    "href": "courses/methodological-computational-data-science.html#course-information",
+    "title": "Methodological and Computational Approaches in Data Science",
+    "section": "",
+    "text": "Course: Methodological and Computational Approaches in Data Science\nDegree programme: SERI - Economic Development and International Relations\nDepartment: Department of Political and Social Sciences, University of Pavia\nHours: 20\nPeriod: March-May"
+  },
+  {
+    "objectID": "courses/methodological-computational-data-science.html#course-overview",
+    "href": "courses/methodological-computational-data-science.html#course-overview",
+    "title": "Methodological and Computational Approaches in Data Science",
+    "section": "Course overview",
+    "text": "Course overview\nThis course provides an introduction to methodological and computational approaches in data science, with attention to statistical modelling, machine learning and applied data analysis.\nThe course is designed to help students understand how data science methods can be used to analyse complex empirical problems in economics, social sciences and international relations."
+  },
+  {
+    "objectID": "courses/methodological-computational-data-science.html#main-topics",
+    "href": "courses/methodological-computational-data-science.html#main-topics",
+    "title": "Methodological and Computational Approaches in Data Science",
+    "section": "Main topics",
+    "text": "Main topics\n\nData science workflow\nStatistical learning and machine learning foundations\nData preprocessing and exploratory analysis\nModel fitting and model assessment\nInterpretation of data-driven results\nReproducible computational tools"
+  },
+  {
+    "objectID": "courses/methodological-computational-data-science.html#course-materials",
+    "href": "courses/methodological-computational-data-science.html#course-materials",
+    "title": "Methodological and Computational Approaches in Data Science",
+    "section": "Course materials",
+    "text": "Course materials\nCourse materials will be made available during the semester."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A full and continuously updated list of publications is available on Google Scholar. The complete academic CV is available here."
+  },
+  {
+    "objectID": "publications.html#selected-journal-publications",
+    "href": "publications.html#selected-journal-publications",
+    "title": "Publications",
+    "section": "Selected journal publications",
+    "text": "Selected journal publications\n\nE. Ballante, P. Muliere, S. Figini. Generalized Bayesian Ensemble Survival Tree (GBEST) model. Statistics, 1-16, 2025. https://doi.org/10.1080/02331888.2025.2531445\nF.M. Quetti, S. Figini, E. Ballante. A Bayesian Approach to Ensemble Clustering with Applications. Statistics, 1-23, 2025. http://dx.doi.org/10.1080/02331888.2025.2505576\nA. Bondesan, A. Piralla, E. Ballante, A.M.G. Pitrolo, S. Figini, F. Baldanti, M. Zanella. Predictability of viral load dynamics in the early phases of SARS-CoV-2 through a model-based approach. Mathematical Biosciences and Engineering, 22(4), 725-743, 2025. https://doi.org/10.3934/mbe.2025027\nE. Ballante, F. Naz, S. Figini, S. Gerzeli. Customized Learning to predict student dropout. Advances and Applications in Mathematical Sciences, 23(4), 279-299, 2024.\nF. Naz, S. Gerzeli, E. Ballante, S. Figini. Learning in Lockdowns: A Five-Year Analysis of COVID-19’s Influence on University Students’ Academic Experiences. Advances and Applications in Statistics, 9(1), 59-75, 2023. https://doi.org/10.17654/0972361724005\nE. Ballante, L. Bellanger, P. Drouin, S. Figini, A. Stamm. Smoothing Method for Unit Quaternion Time Series in a Classification Problem: An application to motion data. Scientific Reports, 13, 9366, 2023. https://doi.org/10.1038/s41598-023-36480-y\nE. Ballante. An extension of generalized Bayesian ensemble tree models to survival analysis. Far East Journal of Theoretical Statistics, 67(2), 137-146, 2023. http://dx.doi.org/10.17654/0972086323007\nC. Scapicchio, A. Chincarini, E. Ballante, et al. A multicenter evaluation of a deep learning software (LungQuant) for lung parenchyma characterization in COVID-19 pneumonia. European Radiology Experimental, 7, 18, 2023. https://doi.org/10.1186/s41747-023-00334-z\nR.F. Cabini, F. Brero, A. Lancia, C. Stelitano, O. Oneta, E. Ballante, et al. Preliminary report on harmonization of features extraction process using the ComBat tool in the multi-center Blue Sky Radiomics study on stage III unresectable NSCLC. Insights into Imaging, 13(1), 38, 2022.\nE. Ballante, S. Figini, P. Uberti. A new approach in model selection for ordinal target variables. Computational Statistics, 37, 43-56, 2022. https://doi.org/10.1007/s00180-021-01112-4\nE. Ballante, M. Galvani, P. Uberti, S. Figini. Polarized Classification Tree Models: theory and computational aspects. Journal of Classification, 38, 481-499, 2021. https://doi.org/10.1007/s00357-021-09383-8\nP. Felisaz, G. Colelli, E. Ballante, et al. Texture analysis and machine learning to predict muscle water T2 and fat fraction in Facioscapulohumeral muscular dystrophy. European Journal of Radiology, 134, 2021.\nE. Ballante, C. Bardelli, M. Zanella, S. Figini, G. Toscani. Economic segregation under the action of trading uncertainties. Symmetry, 12(9), 1390, 2020. https://doi.org/10.3390/sym12091390"
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working papers",
+    "text": "Working papers\n\nE. Ballante, A. Mira, S. Figini. A Rank-Based Similarity Measure for Robust Hierarchical Clustering. Working paper.\nE. Ballante, A. Panzavolta, C. Lunetta, A. Dodich, C. Cerami, S. Figini. A Tree-Based Approach for Clustering Individual Networks: Identifying Emotion Recognition Profiles in Neurodegenerative Diseases. Working paper.\nF.M. Quetti, E. Ballante, S. Figini, P. Giudici. Explainable Cluster analysis: a bagging approach. Under review.\nM. Coniglione, E. Ballante, S. Assecondi, S. Figini. Network-based Clustering of Cognitive Profiles: A comparative two-phase approach mitigating double-dipping estimation. Working paper.\nA. Bonomo, G. Rigano, D. Giosa, L. Giuffrè, O. Romeo, S. Figini, E. Ballante. RAIDNC: Random forest Assisted Identification and Discrimination of Non-Coding transcripts. Working paper."
+  },
+  {
+    "objectID": "publications.html#proceedings-and-collaborations",
+    "href": "publications.html#proceedings-and-collaborations",
+    "title": "Publications",
+    "section": "Proceedings and collaborations",
+    "text": "Proceedings and collaborations\nFor conference proceedings and the complete list of collaborative biomedical publications, please see the full CV or Google Scholar."
+  }
+]

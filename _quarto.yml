@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Elena Ballante"
+  site-url: "https://eballante.github.io"
+  repo-url: "https://github.com/eballante/eballante.github.io"
+  search: true
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - text: Courses
+        menu:
+          - href: courses/data-driven-social-sciences.qmd
+            text: Data Driven Approach for Social Sciences
+          - href: courses/methodological-computational-data-science.qmd
+            text: Methodological and Computational Approaches in Data Science
+      - href: contact.qmd
+        text: Contact
+    right:
+      - text: CV
+        href: cv/CV_Elena_Ballante.pdf
+      - icon: github
+        href: https://github.com/eballante
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/elena-ballante-1b3bb8102/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© Elena Ballante"
+    right:
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?hl=it&user=ylN4I_AAAAAJ
+      - text: ORCID
+        href: https://orcid.org/0000-0003-3217-8930
+      - text: GitHub
+        href: https://github.com/eballante
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/elena-ballante-1b3bb8102/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true

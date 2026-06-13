@@ -1,0 +1,49 @@
+---
+title: "Publications"
+---
+
+A full and continuously updated list of publications is available on [Google Scholar](https://scholar.google.com/citations?hl=it&user=ylN4I_AAAAAJ). The complete academic CV is available [here](cv/CV_Elena_Ballante.pdf).
+
+## Selected journal publications
+
+1. E. Ballante, P. Muliere, S. Figini. **Generalized Bayesian Ensemble Survival Tree (GBEST) model**. *Statistics*, 1-16, 2025. https://doi.org/10.1080/02331888.2025.2531445
+
+2. F.M. Quetti, S. Figini, E. Ballante. **A Bayesian Approach to Ensemble Clustering with Applications**. *Statistics*, 1-23, 2025. http://dx.doi.org/10.1080/02331888.2025.2505576
+
+3. A. Bondesan, A. Piralla, E. Ballante, A.M.G. Pitrolo, S. Figini, F. Baldanti, M. Zanella. **Predictability of viral load dynamics in the early phases of SARS-CoV-2 through a model-based approach**. *Mathematical Biosciences and Engineering*, 22(4), 725-743, 2025. https://doi.org/10.3934/mbe.2025027
+
+4. E. Ballante, F. Naz, S. Figini, S. Gerzeli. **Customized Learning to predict student dropout**. *Advances and Applications in Mathematical Sciences*, 23(4), 279-299, 2024.
+
+5. F. Naz, S. Gerzeli, E. Ballante, S. Figini. **Learning in Lockdowns: A Five-Year Analysis of COVID-19's Influence on University Students' Academic Experiences**. *Advances and Applications in Statistics*, 9(1), 59-75, 2023. https://doi.org/10.17654/0972361724005
+
+6. E. Ballante, L. Bellanger, P. Drouin, S. Figini, A. Stamm. **Smoothing Method for Unit Quaternion Time Series in a Classification Problem: An application to motion data**. *Scientific Reports*, 13, 9366, 2023. https://doi.org/10.1038/s41598-023-36480-y
+
+7. E. Ballante. **An extension of generalized Bayesian ensemble tree models to survival analysis**. *Far East Journal of Theoretical Statistics*, 67(2), 137-146, 2023. http://dx.doi.org/10.17654/0972086323007
+
+8. C. Scapicchio, A. Chincarini, E. Ballante, et al. **A multicenter evaluation of a deep learning software (LungQuant) for lung parenchyma characterization in COVID-19 pneumonia**. *European Radiology Experimental*, 7, 18, 2023. https://doi.org/10.1186/s41747-023-00334-z
+
+9. R.F. Cabini, F. Brero, A. Lancia, C. Stelitano, O. Oneta, E. Ballante, et al. **Preliminary report on harmonization of features extraction process using the ComBat tool in the multi-center Blue Sky Radiomics study on stage III unresectable NSCLC**. *Insights into Imaging*, 13(1), 38, 2022.
+
+10. E. Ballante, S. Figini, P. Uberti. **A new approach in model selection for ordinal target variables**. *Computational Statistics*, 37, 43-56, 2022. https://doi.org/10.1007/s00180-021-01112-4
+
+11. E. Ballante, M. Galvani, P. Uberti, S. Figini. **Polarized Classification Tree Models: theory and computational aspects**. *Journal of Classification*, 38, 481-499, 2021. https://doi.org/10.1007/s00357-021-09383-8
+
+12. P. Felisaz, G. Colelli, E. Ballante, et al. **Texture analysis and machine learning to predict muscle water T2 and fat fraction in Facioscapulohumeral muscular dystrophy**. *European Journal of Radiology*, 134, 2021.
+
+13. E. Ballante, C. Bardelli, M. Zanella, S. Figini, G. Toscani. **Economic segregation under the action of trading uncertainties**. *Symmetry*, 12(9), 1390, 2020. https://doi.org/10.3390/sym12091390
+
+## Working papers
+
+1. E. Ballante, A. Mira, S. Figini. **A Rank-Based Similarity Measure for Robust Hierarchical Clustering**. Working paper.
+
+2. E. Ballante, A. Panzavolta, C. Lunetta, A. Dodich, C. Cerami, S. Figini. **A Tree-Based Approach for Clustering Individual Networks: Identifying Emotion Recognition Profiles in Neurodegenerative Diseases**. Working paper.
+
+3. F.M. Quetti, E. Ballante, S. Figini, P. Giudici. **Explainable Cluster analysis: a bagging approach**. Under review.
+
+4. M. Coniglione, E. Ballante, S. Assecondi, S. Figini. **Network-based Clustering of Cognitive Profiles: A comparative two-phase approach mitigating double-dipping estimation**. Working paper.
+
+5. A. Bonomo, G. Rigano, D. Giosa, L. Giuffrè, O. Romeo, S. Figini, E. Ballante. **RAIDNC: Random forest Assisted Identification and Discrimination of Non-Coding transcripts**. Working paper.
+
+## Proceedings and collaborations
+
+For conference proceedings and the complete list of collaborative biomedical publications, please see the [full CV](cv/CV_Elena_Ballante.pdf) or [Google Scholar](https://scholar.google.com/citations?hl=it&user=ylN4I_AAAAAJ).

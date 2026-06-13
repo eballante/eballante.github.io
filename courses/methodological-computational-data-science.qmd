@@ -1,0 +1,30 @@
+---
+title: "Methodological and Computational Approaches in Data Science"
+---
+
+## Course information
+
+**Course:** Methodological and Computational Approaches in Data Science  
+**Degree programme:** SERI - Economic Development and International Relations  
+**Department:** Department of Political and Social Sciences, University of Pavia  
+**Hours:** 20  
+**Period:** March-May
+
+## Course overview
+
+This course provides an introduction to methodological and computational approaches in data science, with attention to statistical modelling, machine learning and applied data analysis.
+
+The course is designed to help students understand how data science methods can be used to analyse complex empirical problems in economics, social sciences and international relations.
+
+## Main topics
+
+- Data science workflow
+- Statistical learning and machine learning foundations
+- Data preprocessing and exploratory analysis
+- Model fitting and model assessment
+- Interpretation of data-driven results
+- Reproducible computational tools
+
+## Course materials
+
+Course materials will be made available during the semester.

@@ -1,0 +1,55 @@
+---
+title: "Home"
+toc: false
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-text}
+# Elena Ballante
+
+**Assistant Professor in Statistics**  
+Department of Political and Social Sciences  
+University of Pavia
+
+I am a statistician working on machine learning and statistical learning methods for biomedical, health-related and social-science data. My research combines methodological development and applied data science, with interests in non-parametric and ensemble models, survival analysis, clustering, neuroimaging and statistical models for social sciences.
+
+::: {.button-row}
+[Publications](publications.qmd){.btn .btn-primary}
+[Research](research.qmd){.btn .btn-outline-primary}
+[Download CV](cv/CV_Elena_Ballante.pdf){.btn .btn-outline-secondary}
+:::
+
+::: {.social-links}
+[Google Scholar](https://scholar.google.com/citations?hl=it&user=ylN4I_AAAAAJ) · [ORCID](https://orcid.org/0000-0003-3217-8930) · [GitHub](https://github.com/eballante) · [LinkedIn](https://www.linkedin.com/in/elena-ballante-1b3bb8102/)
+:::
+:::
+
+::: {.hero-photo}
+![](img/profile.png){fig-alt="Profile photo of Elena Ballante" .profile-photo}
+:::
+:::
+
+## Research at a glance
+
+::: {.cards}
+::: {.card-custom}
+### Statistical Learning
+Development and application of statistical learning methods, with attention to interpretability, robustness and real-world data constraints.
+:::
+
+::: {.card-custom}
+### Biomedical Data Science
+Machine learning and data mining for biomedical data, neuroimaging, neurosciences and health-related applications.
+:::
+
+::: {.card-custom}
+### Social and Health Data
+Statistical and computational models for social sciences, education, socio-economic topics and health data.
+:::
+:::
+
+## Current courses
+
+- [Data Driven Approach for Social Sciences](courses/data-driven-social-sciences.qmd)
+- [Methodological and Computational Approaches in Data Science](courses/methodological-computational-data-science.qmd)

@@ -1,0 +1,31 @@
+---
+title: "Research"
+---
+
+My research focuses on **Machine Learning** and **Statistical Learning** applied to biomedical, health-related and social-science data. I am interested in developing and applying statistical models, machine learning algorithms and data mining methods from both methodological and applied perspectives.
+
+## Research interests
+
+### Non-parametric and ensemble models
+
+A central part of my research concerns non-parametric and ensemble learning methods, with particular attention to robust modelling strategies for complex data structures.
+
+### Survival analysis
+
+I work on statistical and machine learning models for censored data, including ensemble approaches for survival outcomes and biomedical applications.
+
+### Clustering and Bayesian approaches
+
+My research includes clustering methods, Bayesian ensemble approaches, robust similarity measures and methods for high-dimensional and complex data.
+
+### Biomedical and neuroimaging applications
+
+I collaborate on projects involving neurosciences, neuroimaging, radiomics, neurological diseases and biomedical data analysis.
+
+### Social-science and health data
+
+I also apply statistical and computational methods to social-science data, including education, socio-economic topics, health data and questionnaire-based research.
+
+## Keywords
+
+Machine learning · Statistical learning · Survival analysis · Ensemble models · Clustering · Bayesian methods · Biomedical statistics · Neuroimaging · Health data · Social-science data
