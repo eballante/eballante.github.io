@@ -5,26 +5,26 @@ title: "Data Driven Approach for Social Sciences"
 ## Course information
 
 **Course:** Data Driven Approach for Social Sciences  
+**Level:** Bachelor degree  
 **Degree programme:** Social Sciences for Global Challenges  
 **Department:** Department of Political and Social Sciences, University of Pavia  
-**Hours:** 40  
-**Period:** October-December
 
 ## Course overview
 
-This course introduces students to data-driven approaches for the analysis of social-science problems. It focuses on statistical reasoning, data analysis and computational tools for studying social, economic and institutional phenomena.
+This course introduces the basic statistical tools needed to read, describe and interpret quantitative information in the social sciences. Starting from probability and elementary set operations, the course gradually moves toward descriptive statistics, random variables, estimation, confidence intervals, hypothesis testing and simple bivariate methods. The aim is to help students develop statistical reasoning and use data analysis as a transparent support for social-science questions.
 
-The course is designed to help students move from substantive research questions to empirical analysis, with attention to data preparation, exploratory analysis, model interpretation and reproducible workflows.
+The course gives particular attention to the interpretation of empirical results: how variables are defined, how data can be summarized graphically and numerically, how uncertainty can be quantified, and how basic statistical tests can be used to compare groups or study associations between variables. Introductory elements of linear regression are also discussed as a first step toward model-based reasoning.
 
-## Main topics
+## Materials
 
-- Data-driven reasoning in the social sciences
-- Data sources, data quality and preprocessing
-- Exploratory data analysis
-- Statistical models for social-science data
-- Interpretation and communication of empirical results
-- Reproducible workflows for data analysis
+Slides, notices and course materials are available through the University of Pavia Kiro e-learning platform: [https://elearning.unipv.it/](https://elearning.unipv.it/).
 
-## Course materials
+## Suggested readings
 
-Course materials will be made available during the semester.
+The following books are suggested as complementary readings for students interested in developing a broader view of statistics, data and quantitative reasoning. They are not mandatory course materials. Not all readings have been personally verified by me.
+
+- David Spiegelhalter, *The Art of Statistics: Learning from Data*.
+- Charles Wheelan, *Naked Statistics: Stripping the Dread from the Data*.
+- Darrell Huff, *How to Lie with Statistics*.
+- Alberto Cairo, *How Charts Lie: Getting Smarter about Visual Information*.
+- Hans Rosling, Ola Rosling and Anna Rosling Rönnlund, *Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think*.

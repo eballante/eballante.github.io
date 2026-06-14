@@ -5,26 +5,28 @@ title: "Methodological and Computational Approaches in Data Science"
 ## Course information
 
 **Course:** Methodological and Computational Approaches in Data Science  
-**Degree programme:** SERI - Economic Development and International Relations  
+**Level:** Master degree  
+**Degree programme:** SERI — Economic Development and International Relations  
 **Department:** Department of Political and Social Sciences, University of Pavia  
-**Hours:** 20  
-**Period:** March-May
 
 ## Course overview
 
-This course provides an introduction to methodological and computational approaches in data science, with attention to statistical modelling, machine learning and applied data analysis.
+This course introduces students to the methodological and computational foundations of data science. It combines theoretical lessons with hands-on sessions in R, with the aim of developing both conceptual understanding and practical skills. The course starts from the general meaning of data science and from the use of R for data exploration, then moves toward supervised and unsupervised learning methods.
 
-The course is designed to help students understand how data science methods can be used to analyse complex empirical problems in economics, social sciences and international relations.
+The methodological part covers regression models, classification methods, error estimation, ensemble models, clustering, market basket analysis, neural networks and text mining. The course also emphasizes how to read, interpret and present scientific articles that apply machine learning models to real-world problems, encouraging students to connect data science techniques with substantive research questions and applied evidence.
 
-## Main topics
+## Materials
 
-- Data science workflow
-- Statistical learning and machine learning foundations
-- Data preprocessing and exploratory analysis
-- Model fitting and model assessment
-- Interpretation of data-driven results
-- Reproducible computational tools
+Slides, recordings, code, notices and additional course materials are available through the University of Pavia Kiro e-learning platform: [https://elearning.unipv.it/](https://elearning.unipv.it/).
 
-## Course materials
+## Suggested readings
 
-Course materials will be made available during the semester.
+The following books are suggested as complementary readings for students interested in data science, machine learning and the broader social impact of data-driven methods. They are not mandatory course materials. Not all readings have been personally verified by me.
+
+- Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani and Jonathan Taylor, *An Introduction to Statistical Learning: With Applications in R*.
+- Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund, *R for Data Science*.
+- Foster Provost and Tom Fawcett, *Data Science for Business*.
+- John D. Kelleher and Brendan Tierney, *Data Science*.
+- Hannah Fry, *Hello World: Being Human in the Age of Algorithms*.
+- Cathy O'Neil, *Weapons of Math Destruction*.
+- Brian Christian, *The Alignment Problem: Machine Learning and Human Values*.

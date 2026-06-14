@@ -21,60 +21,74 @@
     "text": "Keywords\nMachine learning · Statistical learning · Survival analysis · Ensemble models · Clustering · Bayesian methods · Biomedical statistics · Neuroimaging · Health data · Social-science data"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "open-topics.html",
+    "href": "open-topics.html",
+    "title": "Current Open Topics",
     "section": "",
-    "text": "Assistant Professor in Statistics\nDepartment of Political and Social Sciences\nUniversity of Pavia\nI am a statistician working on machine learning and statistical learning methods for biomedical, health-related and social-science data. My research combines methodological development and applied data science, with interests in non-parametric and ensemble models, survival analysis, clustering, neuroimaging and statistical models for social sciences.\n\nPublications Research Download CV\n\n\nGoogle Scholar · ORCID · GitHub · LinkedIn"
+    "text": "This page presents a selection of current research directions and open methodological questions that I am actively developing. The aim is to highlight ongoing topics rather than provide a complete overview of past research activities."
   },
   {
-    "objectID": "index.html#research-at-a-glance",
-    "href": "index.html#research-at-a-glance",
-    "title": "Home",
-    "section": "Research at a glance",
-    "text": "Research at a glance\n\n\nStatistical Learning\nDevelopment and application of statistical learning methods, with attention to interpretability, robustness and real-world data constraints.\n\n\nBiomedical Data Science\nMachine learning and data mining for biomedical data, neuroimaging, neurosciences and health-related applications.\n\n\nSocial and Health Data\nStatistical and computational models for social sciences, education, socio-economic topics and health data."
+    "objectID": "open-topics.html#eeg-clustering-through-tensor-decomposition",
+    "href": "open-topics.html#eeg-clustering-through-tensor-decomposition",
+    "title": "Current Open Topics",
+    "section": "EEG clustering through tensor decomposition",
+    "text": "EEG clustering through tensor decomposition\nEEG data are naturally multi-dimensional, combining subjects, channels, time, frequencies and experimental conditions. Tensor decomposition offers a way to preserve this multiway structure, but the connection between decomposition quality and clustering performance remains an open methodological issue.\nResearch question: How can tensor decomposition methods be designed or regularized to obtain meaningful and stable clusters of EEG profiles?"
   },
   {
-    "objectID": "index.html#current-courses",
-    "href": "index.html#current-courses",
-    "title": "Home",
-    "section": "Current courses",
-    "text": "Current courses\n\nData Driven Approach for Social Sciences\nMethodological and Computational Approaches in Data Science"
+    "objectID": "open-topics.html#clustering-individual-networks",
+    "href": "open-topics.html#clustering-individual-networks",
+    "title": "Current Open Topics",
+    "section": "Clustering individual networks",
+    "text": "Clustering individual networks\nIn several biomedical and cognitive applications, each individual can be represented by a subject-specific network. The methodological challenge is different from classical community detection: the goal is not to identify communities within a single network, but to cluster individuals according to the structure of their networks.\nResearch question: How can subject-specific networks be compared and clustered while preserving interpretability and avoiding circularity in the estimation process?"
   },
   {
-    "objectID": "courses/data-driven-social-sciences.html",
-    "href": "courses/data-driven-social-sciences.html",
-    "title": "Data Driven Approach for Social Sciences",
+    "objectID": "open-topics.html#bayesian-ensemble-methods-for-clustering-and-prediction",
+    "href": "open-topics.html#bayesian-ensemble-methods-for-clustering-and-prediction",
+    "title": "Current Open Topics",
+    "section": "Bayesian ensemble methods for clustering and prediction",
+    "text": "Bayesian ensemble methods for clustering and prediction\nEnsemble methods are powerful tools for improving stability and predictive performance, but their uncertainty is often difficult to quantify and communicate. Bayesian and bootstrap-based approaches provide a promising framework to combine robustness, uncertainty assessment and interpretability.\nResearch question: How can Bayesian ensemble methods produce stable predictions or partitions while providing meaningful uncertainty information?"
+  },
+  {
+    "objectID": "open-topics.html#robust-rank-based-clustering",
+    "href": "open-topics.html#robust-rank-based-clustering",
+    "title": "Current Open Topics",
+    "section": "Robust rank-based clustering",
+    "text": "Robust rank-based clustering\nMany clustering problems involve data structures for which classical metric assumptions are too restrictive or unstable. Rank-based information offers a flexible way to compare observations or complex objects while reducing the impact of scale, noise and distributional assumptions.\nResearch question: How can rank-based similarity measures be used to build robust clustering procedures for complex and heterogeneous data?"
+  },
+  {
+    "objectID": "courses/methodological-computational-data-science.html",
+    "href": "courses/methodological-computational-data-science.html",
+    "title": "Methodological and Computational Approaches in Data Science",
     "section": "",
-    "text": "Course: Data Driven Approach for Social Sciences\nDegree programme: Social Sciences for Global Challenges\nDepartment: Department of Political and Social Sciences, University of Pavia\nHours: 40\nPeriod: October-December"
+    "text": "Course: Methodological and Computational Approaches in Data Science\nLevel: Master degree\nDegree programme: SERI — Economic Development and International Relations\nDepartment: Department of Political and Social Sciences, University of Pavia"
   },
   {
-    "objectID": "courses/data-driven-social-sciences.html#course-information",
-    "href": "courses/data-driven-social-sciences.html#course-information",
-    "title": "Data Driven Approach for Social Sciences",
+    "objectID": "courses/methodological-computational-data-science.html#course-information",
+    "href": "courses/methodological-computational-data-science.html#course-information",
+    "title": "Methodological and Computational Approaches in Data Science",
     "section": "",
-    "text": "Course: Data Driven Approach for Social Sciences\nDegree programme: Social Sciences for Global Challenges\nDepartment: Department of Political and Social Sciences, University of Pavia\nHours: 40\nPeriod: October-December"
+    "text": "Course: Methodological and Computational Approaches in Data Science\nLevel: Master degree\nDegree programme: SERI — Economic Development and International Relations\nDepartment: Department of Political and Social Sciences, University of Pavia"
   },
   {
-    "objectID": "courses/data-driven-social-sciences.html#course-overview",
-    "href": "courses/data-driven-social-sciences.html#course-overview",
-    "title": "Data Driven Approach for Social Sciences",
+    "objectID": "courses/methodological-computational-data-science.html#course-overview",
+    "href": "courses/methodological-computational-data-science.html#course-overview",
+    "title": "Methodological and Computational Approaches in Data Science",
     "section": "Course overview",
-    "text": "Course overview\nThis course introduces students to data-driven approaches for the analysis of social-science problems. It focuses on statistical reasoning, data analysis and computational tools for studying social, economic and institutional phenomena.\nThe course is designed to help students move from substantive research questions to empirical analysis, with attention to data preparation, exploratory analysis, model interpretation and reproducible workflows."
+    "text": "Course overview\nThis course introduces students to the methodological and computational foundations of data science. It combines theoretical lessons with hands-on sessions in R, with the aim of developing both conceptual understanding and practical skills. The course starts from the general meaning of data science and from the use of R for data exploration, then moves toward supervised and unsupervised learning methods.\nThe methodological part covers regression models, classification methods, error estimation, ensemble models, clustering, market basket analysis, neural networks and text mining. The course also emphasizes how to read, interpret and present scientific articles that apply machine learning models to real-world problems, encouraging students to connect data science techniques with substantive research questions and applied evidence."
   },
   {
-    "objectID": "courses/data-driven-social-sciences.html#main-topics",
-    "href": "courses/data-driven-social-sciences.html#main-topics",
-    "title": "Data Driven Approach for Social Sciences",
-    "section": "Main topics",
-    "text": "Main topics\n\nData-driven reasoning in the social sciences\nData sources, data quality and preprocessing\nExploratory data analysis\nStatistical models for social-science data\nInterpretation and communication of empirical results\nReproducible workflows for data analysis"
+    "objectID": "courses/methodological-computational-data-science.html#materials",
+    "href": "courses/methodological-computational-data-science.html#materials",
+    "title": "Methodological and Computational Approaches in Data Science",
+    "section": "Materials",
+    "text": "Materials\nSlides, recordings, code, notices and additional course materials are available through the University of Pavia Kiro e-learning platform: https://elearning.unipv.it/."
   },
   {
-    "objectID": "courses/data-driven-social-sciences.html#course-materials",
-    "href": "courses/data-driven-social-sciences.html#course-materials",
-    "title": "Data Driven Approach for Social Sciences",
-    "section": "Course materials",
-    "text": "Course materials\nCourse materials will be made available during the semester."
+    "objectID": "courses/methodological-computational-data-science.html#suggested-readings",
+    "href": "courses/methodological-computational-data-science.html#suggested-readings",
+    "title": "Methodological and Computational Approaches in Data Science",
+    "section": "Suggested readings",
+    "text": "Suggested readings\nThe following books are suggested as complementary readings for students interested in data science, machine learning and the broader social impact of data-driven methods. They are not mandatory course materials. Not all readings have been personally verified by me.\n\nGareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani and Jonathan Taylor, An Introduction to Statistical Learning: With Applications in R.\nHadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund, R for Data Science.\nFoster Provost and Tom Fawcett, Data Science for Business.\nJohn D. Kelleher and Brendan Tierney, Data Science.\nHannah Fry, Hello World: Being Human in the Age of Algorithms.\nCathy O’Neil, Weapons of Math Destruction.\nBrian Christian, The Alignment Problem: Machine Learning and Human Values."
   },
   {
     "objectID": "contact.html",
@@ -98,39 +112,60 @@
     "text": "Profiles\n\nGoogle Scholar\nORCID\nGitHub\nLinkedIn"
   },
   {
-    "objectID": "courses/methodological-computational-data-science.html",
-    "href": "courses/methodological-computational-data-science.html",
-    "title": "Methodological and Computational Approaches in Data Science",
+    "objectID": "courses/data-driven-social-sciences.html",
+    "href": "courses/data-driven-social-sciences.html",
+    "title": "Data Driven Approach for Social Sciences",
     "section": "",
-    "text": "Course: Methodological and Computational Approaches in Data Science\nDegree programme: SERI - Economic Development and International Relations\nDepartment: Department of Political and Social Sciences, University of Pavia\nHours: 20\nPeriod: March-May"
+    "text": "Course: Data Driven Approach for Social Sciences\nLevel: Bachelor degree\nDegree programme: Social Sciences for Global Challenges\nDepartment: Department of Political and Social Sciences, University of Pavia"
   },
   {
-    "objectID": "courses/methodological-computational-data-science.html#course-information",
-    "href": "courses/methodological-computational-data-science.html#course-information",
-    "title": "Methodological and Computational Approaches in Data Science",
+    "objectID": "courses/data-driven-social-sciences.html#course-information",
+    "href": "courses/data-driven-social-sciences.html#course-information",
+    "title": "Data Driven Approach for Social Sciences",
     "section": "",
-    "text": "Course: Methodological and Computational Approaches in Data Science\nDegree programme: SERI - Economic Development and International Relations\nDepartment: Department of Political and Social Sciences, University of Pavia\nHours: 20\nPeriod: March-May"
+    "text": "Course: Data Driven Approach for Social Sciences\nLevel: Bachelor degree\nDegree programme: Social Sciences for Global Challenges\nDepartment: Department of Political and Social Sciences, University of Pavia"
   },
   {
-    "objectID": "courses/methodological-computational-data-science.html#course-overview",
-    "href": "courses/methodological-computational-data-science.html#course-overview",
-    "title": "Methodological and Computational Approaches in Data Science",
+    "objectID": "courses/data-driven-social-sciences.html#course-overview",
+    "href": "courses/data-driven-social-sciences.html#course-overview",
+    "title": "Data Driven Approach for Social Sciences",
     "section": "Course overview",
-    "text": "Course overview\nThis course provides an introduction to methodological and computational approaches in data science, with attention to statistical modelling, machine learning and applied data analysis.\nThe course is designed to help students understand how data science methods can be used to analyse complex empirical problems in economics, social sciences and international relations."
+    "text": "Course overview\nThis course introduces the basic statistical tools needed to read, describe and interpret quantitative information in the social sciences. Starting from probability and elementary set operations, the course gradually moves toward descriptive statistics, random variables, estimation, confidence intervals, hypothesis testing and simple bivariate methods. The aim is to help students develop statistical reasoning and use data analysis as a transparent support for social-science questions.\nThe course gives particular attention to the interpretation of empirical results: how variables are defined, how data can be summarized graphically and numerically, how uncertainty can be quantified, and how basic statistical tests can be used to compare groups or study associations between variables. Introductory elements of linear regression are also discussed as a first step toward model-based reasoning."
   },
   {
-    "objectID": "courses/methodological-computational-data-science.html#main-topics",
-    "href": "courses/methodological-computational-data-science.html#main-topics",
-    "title": "Methodological and Computational Approaches in Data Science",
-    "section": "Main topics",
-    "text": "Main topics\n\nData science workflow\nStatistical learning and machine learning foundations\nData preprocessing and exploratory analysis\nModel fitting and model assessment\nInterpretation of data-driven results\nReproducible computational tools"
+    "objectID": "courses/data-driven-social-sciences.html#materials",
+    "href": "courses/data-driven-social-sciences.html#materials",
+    "title": "Data Driven Approach for Social Sciences",
+    "section": "Materials",
+    "text": "Materials\nSlides, notices and course materials are available through the University of Pavia Kiro e-learning platform: https://elearning.unipv.it/."
   },
   {
-    "objectID": "courses/methodological-computational-data-science.html#course-materials",
-    "href": "courses/methodological-computational-data-science.html#course-materials",
-    "title": "Methodological and Computational Approaches in Data Science",
-    "section": "Course materials",
-    "text": "Course materials\nCourse materials will be made available during the semester."
+    "objectID": "courses/data-driven-social-sciences.html#suggested-readings",
+    "href": "courses/data-driven-social-sciences.html#suggested-readings",
+    "title": "Data Driven Approach for Social Sciences",
+    "section": "Suggested readings",
+    "text": "Suggested readings\nThe following books are suggested as complementary readings for students interested in developing a broader view of statistics, data and quantitative reasoning. They are not mandatory course materials. Not all readings have been personally verified by me.\n\nDavid Spiegelhalter, The Art of Statistics: Learning from Data.\nCharles Wheelan, Naked Statistics: Stripping the Dread from the Data.\nDarrell Huff, How to Lie with Statistics.\nAlberto Cairo, How Charts Lie: Getting Smarter about Visual Information.\nHans Rosling, Ola Rosling and Anna Rosling Rönnlund, Factfulness: Ten Reasons We’re Wrong About the World — and Why Things Are Better Than You Think."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Assistant Professor in Statistics\nDepartment of Political and Social Sciences\nUniversity of Pavia\nI am a statistician working on machine learning and statistical learning methods for biomedical, health-related and social-science data. My research combines methodological development and applied data science, with interests in non-parametric and ensemble models, survival analysis, clustering, neuroimaging and statistical models for social sciences.\n\nPublications Research Download CV\n\n\nGoogle Scholar · ORCID · GitHub · LinkedIn"
+  },
+  {
+    "objectID": "index.html#research-at-a-glance",
+    "href": "index.html#research-at-a-glance",
+    "title": "Home",
+    "section": "Research at a glance",
+    "text": "Research at a glance\n\n\nStatistical Learning\nDevelopment and application of statistical learning methods, with attention to interpretability, robustness and real-world data constraints.\n\n\nBiomedical Data Science\nMachine learning and data mining for biomedical data, neuroimaging, neurosciences and health-related applications.\n\n\nSocial and Health Data\nStatistical and computational models for social sciences, education, socio-economic topics and health data."
+  },
+  {
+    "objectID": "index.html#current-courses",
+    "href": "index.html#current-courses",
+    "title": "Home",
+    "section": "Current courses",
+    "text": "Current courses\n\nData Driven Approach for Social Sciences\nMethodological and Computational Approaches in Data Science"
   },
   {
     "objectID": "publications.html",

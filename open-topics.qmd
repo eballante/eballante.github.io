@@ -1,0 +1,29 @@
+---
+title: "Current Open Topics"
+---
+
+This page presents a selection of current research directions and open methodological questions that I am actively developing. The aim is to highlight ongoing topics rather than provide a complete overview of past research activities.
+
+## EEG clustering through tensor decomposition
+
+EEG data are naturally multi-dimensional, combining subjects, channels, time, frequencies and experimental conditions. Tensor decomposition offers a way to preserve this multiway structure, but the connection between decomposition quality and clustering performance remains an open methodological issue.
+
+**Research question:** How can tensor decomposition methods be designed or regularized to obtain meaningful and stable clusters of EEG profiles?
+
+## Clustering individual networks
+
+In several biomedical and cognitive applications, each individual can be represented by a subject-specific network. The methodological challenge is different from classical community detection: the goal is not to identify communities within a single network, but to cluster individuals according to the structure of their networks.
+
+**Research question:** How can subject-specific networks be compared and clustered while preserving interpretability and avoiding circularity in the estimation process?
+
+## Bayesian ensemble methods for clustering and prediction
+
+Ensemble methods are powerful tools for improving stability and predictive performance, but their uncertainty is often difficult to quantify and communicate. Bayesian and bootstrap-based approaches provide a promising framework to combine robustness, uncertainty assessment and interpretability.
+
+**Research question:** How can Bayesian ensemble methods produce stable predictions or partitions while providing meaningful uncertainty information?
+
+## Robust rank-based clustering
+
+Many clustering problems involve data structures for which classical metric assumptions are too restrictive or unstable. Rank-based information offers a flexible way to compare observations or complex objects while reducing the impact of scale, noise and distributional assumptions.
+
+**Research question:** How can rank-based similarity measures be used to build robust clustering procedures for complex and heterogeneous data?
