@@ -14,11 +14,6 @@ University of Pavia
 
 I am a statistician working on machine learning and statistical learning methods for biomedical, health-related and social-science data. My research combines methodological development and applied data science, with interests in non-parametric and ensemble models, survival analysis, clustering, neuroimaging and statistical models for social sciences.
 
-::: {.button-row}
-[Publications](publications.qmd){.btn .btn-primary}
-[Research](research.qmd){.btn .btn-outline-primary}
-[Download CV](cv/CV_Elena_Ballante.pdf){.btn .btn-outline-secondary}
-:::
 
 ::: {.social-links}
 [Google Scholar](https://scholar.google.com/citations?hl=it&user=ylN4I_AAAAAJ) · [ORCID](https://orcid.org/0000-0003-3217-8930) · [GitHub](https://github.com/eballante) · [LinkedIn](https://www.linkedin.com/in/elena-ballante-1b3bb8102/)

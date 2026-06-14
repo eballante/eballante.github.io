@@ -2,8 +2,7 @@
 title: "Current Open Topics"
 ---
 
-This page presents a selection of current research directions and open methodological questions that I am actively developing. The aim is to highlight ongoing topics rather than provide a complete overview of past research activities.
-
+This page presents a selection of current research directions and open methodological questions that I am actively developing.
 ## EEG clustering through tensor decomposition
 
 EEG data are naturally multi-dimensional, combining subjects, channels, time, frequencies and experimental conditions. Tensor decomposition offers a way to preserve this multiway structure, but the connection between decomposition quality and clustering performance remains an open methodological issue.

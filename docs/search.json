@@ -25,14 +25,7 @@
     "href": "open-topics.html",
     "title": "Current Open Topics",
     "section": "",
-    "text": "This page presents a selection of current research directions and open methodological questions that I am actively developing. The aim is to highlight ongoing topics rather than provide a complete overview of past research activities."
-  },
-  {
-    "objectID": "open-topics.html#eeg-clustering-through-tensor-decomposition",
-    "href": "open-topics.html#eeg-clustering-through-tensor-decomposition",
-    "title": "Current Open Topics",
-    "section": "EEG clustering through tensor decomposition",
-    "text": "EEG clustering through tensor decomposition\nEEG data are naturally multi-dimensional, combining subjects, channels, time, frequencies and experimental conditions. Tensor decomposition offers a way to preserve this multiway structure, but the connection between decomposition quality and clustering performance remains an open methodological issue.\nResearch question: How can tensor decomposition methods be designed or regularized to obtain meaningful and stable clusters of EEG profiles?"
+    "text": "This page presents a selection of current research directions and open methodological questions that I am actively developing. ## EEG clustering through tensor decomposition\nEEG data are naturally multi-dimensional, combining subjects, channels, time, frequencies and experimental conditions. Tensor decomposition offers a way to preserve this multiway structure, but the connection between decomposition quality and clustering performance remains an open methodological issue.\nResearch question: How can tensor decomposition methods be designed or regularized to obtain meaningful and stable clusters of EEG profiles?"
   },
   {
     "objectID": "open-topics.html#clustering-individual-networks",
@@ -151,7 +144,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Assistant Professor in Statistics\nDepartment of Political and Social Sciences\nUniversity of Pavia\nI am a statistician working on machine learning and statistical learning methods for biomedical, health-related and social-science data. My research combines methodological development and applied data science, with interests in non-parametric and ensemble models, survival analysis, clustering, neuroimaging and statistical models for social sciences.\n\nPublications Research Download CV\n\n\nGoogle Scholar · ORCID · GitHub · LinkedIn"
+    "text": "Assistant Professor in Statistics\nDepartment of Political and Social Sciences\nUniversity of Pavia\nI am a statistician working on machine learning and statistical learning methods for biomedical, health-related and social-science data. My research combines methodological development and applied data science, with interests in non-parametric and ensemble models, survival analysis, clustering, neuroimaging and statistical models for social sciences.\n\nGoogle Scholar · ORCID · GitHub · LinkedIn"
   },
   {
     "objectID": "index.html#research-at-a-glance",
